@@ -1,0 +1,2 @@
+You are working on issue sociotechnica-org/symphony-ts-test#1: Smoke test: add a README.
+Description: Add a basic README.md to this test repository.
