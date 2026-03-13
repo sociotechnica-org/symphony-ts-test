@@ -1,0 +1,2 @@
+You are working on issue sociotechnica-org/symphony-ts-test#2: Smoke test: add a LICENSE file.
+Description: Add an MIT LICENSE file to this test repository.
