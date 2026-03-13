@@ -1,1 +1,1 @@
-Smoke test for sociotechnica-org/symphony-ts-test#2
+Smoke test for sociotechnica-org/symphony-ts-test#9
