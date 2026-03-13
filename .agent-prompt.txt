@@ -1,2 +1,2 @@
-You are working on issue sociotechnica-org/symphony-ts-test#2: Smoke test: add a LICENSE file.
-Description: Add an MIT LICENSE file to this test repository.
+You are working on issue sociotechnica-org/symphony-ts-test#5: Add a CONTRIBUTING.md guide.
+Description: Create a basic CONTRIBUTING.md.
